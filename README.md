@@ -1,95 +1,145 @@
 <div align="center">
 
-# <b>AVESH AHMAD SHAIKH</b>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff99,100:0d1117&height=220&section=header&text=AVESH%20AHMAD%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20SaaS%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### <i>Full-Stack Developer · AI & SaaS Builder · Entrepreneur</i>
+<br>
+
+<a href="https://github.com/rehanshaikh555">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&height=60&lines=Full-Stack+Developer+%7C+AI+%7C+SaaS;Building+Modern+Web+Applications;Exploring+LLMs+%26+Intelligent+Systems;Turning+Ideas+Into+Real+Products;Code+%E2%80%A2+Build+%E2%80%A2+Learn+%E2%80%A2+Ship" alt="Typing SVG"/>
+</a>
+
+<br>
 
 <p>
-Building practical digital products at the intersection of
-<b>software, AI, cybersecurity & business.</b>
+  <img src="https://komarev.com/ghpvc/?username=rehanshaikh555&label=PROFILE%20VIEWS&color=00ff99&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/rehanshaikh555?label=FOLLOWERS&style=flat-square&color=00ff99" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/rehanshaikh555?affiliations=OWNER&style=flat-square&label=STARS&color=00ff99" alt="GitHub Stars"/>
 </p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00FF99&center=true&vCenter=true&width=800&lines=Turning+ideas+into+working+products.;Full-Stack+%7C+AI+%7C+SaaS+%7C+Cybersecurity;Building+systems+that+solve+real+problems.;Code.+Build.+Learn.+Repeat." alt="Typing SVG" />
+<br>
+
+<a href="https://github.com/rehanshaikh555">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff99"/>
 </a>
 
-<br><br>
+<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff99"/>
+</a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:wrehan2344@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff99"/>
 </a>
 
 </div>
 
 ---
 
-## 👋 ABOUT ME
+## 🧬 `whoami`
 
-I'm **Avesh Ahmad Shaikh**, a developer and entrepreneur interested in building technology that solves practical, real-world problems.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  Avesh Ahmad Shaikh                                          │
+│                                                              │
+│  Full-Stack Developer                                        │
+│  AI & SaaS Builder                                           │
+│  Tech Entrepreneur                                           │
+│                                                              │
+│  I build modern applications that connect                   │
+│  technology, AI and real-world business problems.            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-My journey combines **software development, artificial intelligence, cybersecurity, SaaS and business**.
+I'm interested in building **useful, scalable and intelligent digital products**.
 
-I enjoy taking an idea from:
+My work sits at the intersection of:
 
-**💡 Idea → 🏗️ Architecture → 💻 Development → 🧪 Testing → 🚀 Product**
+`Software Engineering` · `Artificial Intelligence` · `Cybersecurity` · `SaaS` · `Business`
 
-Rather than focusing only on writing code, I like understanding the complete problem — **what needs to be built, why it matters, how users will interact with it, and how the product can grow.**
+I enjoy taking products from:
+
+**💡 Idea → 🧠 Architecture → 🎨 Interface → ⚙️ Backend → 🤖 AI → 🚀 Product**
 
 ---
 
-## 🚀 WHAT I'M BUILDING
+# ⚡ CURRENTLY BUILDING
 
-### 🤖 AI-Powered Applications
+<table>
+<tr>
 
-Exploring practical applications of:
+<td width="50%" valign="top">
 
-* Large Language Models
+### 🤖 AI Applications
+
+Exploring practical AI systems using:
+
+* LLMs
+* RAG
 * NLP
 * AI automation
+* Local LLMs
 * Intelligent document processing
 * AI-assisted decision systems
-* RAG-based applications
-* Local LLMs & model integration
 
----
+</td>
 
-### 🏢 SaaS & Management Platforms
+<td width="50%" valign="top">
 
-Building ideas around real-world business problems, including:
+### 🚀 SaaS Products
 
-* Society / apartment management
-* Complaint management
+Building product concepts around:
+
+* Society management
+* Complaint intelligence
 * Business automation
 * Lead management
 * Customer communication
 * AI-powered dashboards
 
-The goal is simple:
+</td>
 
-> **Turn repetitive real-world processes into simple digital experiences.**
+</tr>
 
----
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🛡️ Cybersecurity
 
-Exploring security-focused applications such as:
+Exploring:
 
-* 🔗 Malicious URL detection
-* 🎣 Phishing detection
-* 🔐 Application security
-* 📧 Email security
-* 🧠 AI-assisted threat analysis
-* 🔎 Security automation
+* Phishing detection
+* Malicious URL analysis
+* Link scanning
+* Application security
+* Email security
+* AI-assisted threat analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Modern Web
+
+Building with:
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* FastAPI
+* MongoDB
+* Supabase
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚙️ TECH STACK
+# 🛠️ ENGINEERING ARSENAL
 
 <div align="center">
 
@@ -97,13 +147,19 @@ Exploring security-focused applications such as:
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
 
-### Backend & APIs
+<br><br>
+
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
 
-### Databases & Cloud
+<br><br>
+
+### Database & Backend Services
 
 <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+
+<br><br>
 
 ### Tools & Infrastructure
 
@@ -113,111 +169,237 @@ Exploring security-focused applications such as:
 
 <br>
 
-| Area               | Technologies                                               |
-| ------------------ | ---------------------------------------------------------- |
-| **Frontend**       | React, Next.js, TypeScript, JavaScript, Vite, Tailwind CSS |
-| **Backend**        | Node.js, Python, FastAPI, REST APIs                        |
-| **Database**       | MongoDB, Supabase, Firebase                                |
-| **AI**             | LLMs, NLP, RAG, AI Automation                              |
-| **Development**    | Git, GitHub, Docker, Postman, Linux                        |
-| **Animation / UI** | GSAP, Framer Motion                                        |
+| Domain                    | Stack                                                           |
+| ------------------------- | --------------------------------------------------------------- |
+| 🎨 **Frontend**           | React · Next.js · TypeScript · JavaScript · Vite · Tailwind CSS |
+| ⚙️ **Backend**            | Node.js · Python · FastAPI · REST APIs · Next.js API Routes     |
+| 🗄️ **Database**          | MongoDB · PyMongo · Supabase · Firebase                         |
+| 🤖 **AI**                 | LLMs · Qwen · Ollama · NLP · RAG · AI Automation                |
+| ✨ **UI / Motion**         | GSAP · Framer Motion · Lucide React                             |
+| 📱 **Cross Platform**     | PWA · Expo · React Native · Chrome Extensions                   |
+| 🔧 **Tools**              | Git · GitHub · Docker · Linux · Postman                         |
+| 📝 **Forms / Validation** | React Hook Form · Zod                                           |
 
 ---
 
-# 🧠 ENGINEERING INTERESTS
+# 🧠 TECHNOLOGY MAP
 
 ```text
-Artificial Intelligence
-├── LLM Applications
-├── RAG Systems
-├── NLP
-├── AI Automation
-└── Intelligent Agents
-
-Full-Stack Engineering
-├── React / Next.js
-├── REST APIs
-├── Backend Architecture
-├── Database Design
-└── SaaS Applications
-
-Cybersecurity
-├── Phishing Detection
-├── Malicious URL Analysis
-├── Application Security
-└── Security Automation
-
-Product & Business
-├── SaaS
-├── Digital Products
-├── Lead Generation
-├── Digital Marketing
-└── Entrepreneurship
+                         AVESH
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+          FRONTEND       BACKEND         AI
+             │             │             │
+        React / Next     Python       LLMs / NLP
+        TypeScript       FastAPI      RAG
+        Tailwind         Node.js      Qwen
+        GSAP             REST APIs    Ollama
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                       DATABASE
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+           MongoDB      Supabase     Firebase
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                       PRODUCTS
+                           │
+                ┌──────────┼──────────┐
+                │          │          │
+              SaaS       AI Apps   Security
 ```
 
 ---
 
 # 🔥 FEATURED PROJECTS
 
-### 🏢 Society Management Platform
+<div align="center">
 
-A SaaS concept designed to connect residents, owners, renters and society management through one digital platform.
+<table>
 
-**Key ideas:**
+<tr>
 
-`Complaint Management` · `PWA` · `Voice Input` · `Image Input` · `Notifications` · `AI Intelligence`
+<td width="50%" valign="top">
+
+<h3>🏢 Society Management SaaS</h3>
+
+A digital platform concept connecting residents, owners, renters and society management.
+
+<br>
+
+<b>Core Features</b>
+
+`Complaints` `PWA` `Voice Input` `Image Input` `Notifications` `AI`
+
+<br><br>
+
+<b>Stack</b>
+
+`Next.js` `React` `TypeScript` `Supabase` `AI`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔗 AI Malicious Link Scanner</h3>
+
+Security-focused application concept for analyzing suspicious URLs and identifying potential phishing threats.
+
+<br>
+
+<b>Focus</b>
+
+`URL Analysis` `Phishing` `AI` `Security`
+
+<br><br>
+
+<b>Stack</b>
+
+`Python` `FastAPI` `AI` `MongoDB`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🧠 AI Complaint Intelligence</h3>
+
+AI-powered complaint intelligence system for collecting, classifying and analyzing customer complaints.
+
+<br>
+
+<b>Focus</b>
+
+`NLP` `Sentiment` `Severity` `Classification`
+
+<br><br>
+
+<b>Stack</b>
+
+`Next.js` `Supabase` `AI`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔐 AI Privacy & Terms Simplifier</h3>
+
+Python-based AI concept designed to simplify complex privacy policies and terms into understandable information.
+
+<br>
+
+<b>Focus</b>
+
+`Python` `NLP` `LLMs` `Documents`
+
+<br><br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-### 🔗 AI Malicious Link Scanner
+# 🏗️ HOW I BUILD
 
-A security-focused application designed to analyze URLs and identify potentially malicious or phishing links.
-
-**Focus:**
-
-`Cybersecurity` · `AI` · `URL Analysis` · `Phishing Detection`
-
----
-
-### 🧠 AI Complaint Intelligence
-
-An AI-powered dashboard concept for collecting and analyzing customer complaints from multiple channels.
-
-**Focus:**
-
-`NLP` · `Sentiment Analysis` · `Severity Detection` · `AI Classification` · `Supabase`
-
----
-
-### 🔐 AI Privacy & Terms Simplifier
-
-A Python-based concept for converting complicated legal and privacy documents into easier-to-understand information.
-
-**Focus:**
-
-`Python` · `NLP` · `LLMs` · `Document Processing`
-
----
-
-# 💼 BUSINESS × TECHNOLOGY
-
-Technology isn't the only side of my work.
-
-I've also explored **sales, business development, digital marketing and lead generation**, which gives me a different perspective when building software.
-
-I think about products from both sides:
+<div align="center">
 
 ```text
-TECHNOLOGY
-    +
-BUSINESS
-    +
-USER EXPERIENCE
-    ↓
-USEFUL PRODUCT
+        ┌─────────────────┐
+        │  01  DISCOVER   │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  02  ARCHITECT  │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  03  DESIGN     │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  04  DEVELOP    │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  05  INTEGRATE  │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  06  TEST       │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  07  SHIP       │
+        └────────┬────────┘
+                 ↓
+        ┌─────────────────┐
+        │  08  ITERATE    │
+        └─────────────────┘
 ```
 
-This is also the idea behind my entrepreneurial initiative:
+</div>
+
+> **I don't just want to build projects. I want to build things people can actually use.**
+
+---
+
+# 💼 TECHNOLOGY × BUSINESS
+
+My experience isn't limited to development.
+
+I've also explored:
+
+`Business Development` · `Sales` · `Digital Marketing` · `Lead Generation` · `Entrepreneurship`
+
+This gives me a product-oriented perspective:
+
+```text
+        TECH
+         +
+      BUSINESS
+         +
+    USER EXPERIENCE
+         +
+       AI
+         ↓
+   ┌──────────────┐
+   │   PRODUCT    │
+   └──────────────┘
+```
 
 ### 🚀 Shaikh Leadgen Solutions
 
@@ -225,40 +407,30 @@ Exploring digital marketing, social media management and lead-generation solutio
 
 ---
 
-# 🏗️ HOW I WORK
+# 🎯 CURRENT LEARNING
 
 ```text
-01  Understand the Problem
-          ↓
-02  Research & Plan
-          ↓
-03  Design the System
-          ↓
-04  Build the MVP
-          ↓
-05  Test & Iterate
-          ↓
-06  Ship
-          ↓
-07  Improve
+NEXT.JS / REACT
+████████████████████░░ 90%
+
+TYPESCRIPT
+██████████████████░░░░ 85%
+
+PYTHON / FASTAPI
+█████████████████░░░░░ 80%
+
+MONGODB / SUPABASE
+████████████████░░░░░░ 75%
+
+AI / LLM APPLICATIONS
+███████████████░░░░░░░ 70%
+
+CYBERSECURITY
+████████████░░░░░░░░░░ 60%
+
+SYSTEM DESIGN
+███████████░░░░░░░░░░░ 55%
 ```
-
-> **I don't want to just build projects. I want to build things people can actually use.**
-
----
-
-# 🎯 CURRENTLY LEARNING
-
-* Advanced React & Next.js
-* Backend architecture
-* FastAPI & Python
-* AI / LLM application development
-* RAG architectures
-* MongoDB & Supabase
-* Cybersecurity fundamentals
-* System design
-* SaaS architecture
-* Product development
 
 ---
 
@@ -266,42 +438,62 @@ Exploring digital marketing, social media management and lead-generation solutio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rehanshaikh555&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshaikh555&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99&sideLabels=c9d1d9&dates=c9d1d9" width="48%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshaikh555&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="40%"/>
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanshaikh555&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true&custom_title=Avesh's%20Contribution%20Activity" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://raw.githubusercontent.com/rehanshaikh555/rehanshaikh555/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rehanshaikh555&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/rehanshaikh555">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:wrehan2344@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -310,8 +502,14 @@ Exploring digital marketing, social media management and lead-generation solutio
 
 <div align="center">
 
-### ⚡ Build. Break. Learn. Improve. Ship.
+### ⚡ BUILD · LEARN · EXPERIMENT · SHIP
 
-<i>Always working on the next idea.</i>
+<br>
+
+<i>Always building the next idea.</i>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff99,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
