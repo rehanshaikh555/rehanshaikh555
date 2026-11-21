@@ -1,503 +1,249 @@
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff99,100:0d1117&height=220&section=header&text=Rehan%20AHMAD%20SHAIKH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20SaaS%20Builder%20%7C%20Entrepreneur&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-
-<h1><b>Rehan AHMAD SHAIKH</b></h1>
-
-<h3><i>Full-Stack Developer · AI & SaaS Builder · Entrepreneur</i></h3>
-
-<p>
-Building practical digital products at the intersection of
-<b>software, AI, cybersecurity & business.</b>
-</p>
-
-<a href="https://github.com/rehanshaikh555">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=850&height=60&lines=Turning+ideas+into+working+products.;Full-Stack+%7C+AI+%7C+SaaS+%7C+Cybersecurity;Building+systems+that+solve+real+problems.;Code.+Build.+Learn.+Repeat." alt="Typing SVG"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:07111c,50:063b32,100:00d68f&text=REHAN%20AHMAD%20SHAIKH&fontColor=ffffff&fontSize=38&fontAlignY=42&animation=fadeIn&stroke=00d68f&strokeWidth=1" width="100%" />
 </a>
 
-<br><br>
+<br/>
 
-<a href="https://github.com/rehanshaikh555">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF99"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=00D68F&center=true&vCenter=true&width=750&lines=CYBERSECURITY+RESEARCHER;SOFTWARE+DEVELOPER;TECHNICAL+FOUNDER;RESEARCHING.+ENGINEERING.+BUILDING." alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF99"/>
-</a>
+<br/>
 
-<a href="mailto:wrehan2344@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF99"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-REACTIVATED-00D68F?style=for-the-badge&labelColor=07111c" />
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00D68F?style=for-the-badge&labelColor=07111c" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-00D68F?style=for-the-badge&labelColor=07111c" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rehanshaikh555&label=PROFILE%20VIEWS&color=00ff99&style=flat-square"/>
+### `ACCESS RESTORED // EXECUTION RESUMED`
+
+**I'M BACK. Not to repeat the past — to engineer what's next.**
+
+After an account-related interruption kept my GitHub activity quiet for a while, I'm returning with a renewed commitment to consistent engineering, independent research and meaningful contributions.
+
+`RESEARCH` &nbsp; // &nbsp; `BUILD` &nbsp; // &nbsp; `CONTRIBUTE`
 
 </div>
 
 ---
 
-# 👋 ABOUT ME
+## `01 // WHOAMI`
 
-I'm **Rehan Ahmad Shaikh**, a developer and entrepreneur interested in building technology that solves practical, real-world problems.
+I'm Rehan — an Information Technology student, cybersecurity researcher, software developer and technical founder.
 
-My journey combines:
+I enjoy working at the intersection of **cybersecurity, software engineering, research and product development**. My approach is to understand the problem, investigate the technical challenges, build practical solutions and improve them through experimentation.
 
-**Software Development + Artificial Intelligence + Cybersecurity + SaaS + Business**
+- 🎓 B.Sc. Information Technology student
+- 🛡️ Exploring cybersecurity, security engineering and cryptography
+- 🧪 Interested in research-driven engineering and experimental validation
+- ⚙️ Building software systems, APIs and SaaS applications
+- 🚀 Developing independent technical projects and initiatives
 
-I enjoy taking an idea from:
-
-**💡 Idea → 🏗️ Architecture → 💻 Development → 🧪 Testing → 🚀 Product**
-
-I don't focus only on writing code. I like understanding the complete problem — **what needs to be built, why it matters, how users interact with it, and how the product can grow.**
-
----
-
-# 🚀 WHAT I'M BUILDING
-
-### 🤖 AI-Powered Applications
-
-Exploring practical applications of:
-
-* Large Language Models
-* NLP
-* AI automation
-* Intelligent document processing
-* AI-assisted decision systems
-* RAG-based applications
-* Local LLM integration
+> I don't want to just understand how technology works. I want to investigate how it can work better, safer and more reliably.
 
 ---
 
-### 🏢 SaaS & Management Platforms
+## `02 // RESEARCH & TECHNICAL INTERESTS`
 
-Building ideas around:
-
-* Society / apartment management
-* Complaint management
-* Business automation
-* Lead management
-* Customer communication
-* AI-powered dashboards
-
-> **Turn repetitive real-world processes into simple digital experiences.**
+| Domain | Areas of exploration |
+|---|---|
+| Cybersecurity | Threat detection, phishing analysis, security engineering |
+| Cryptography | Authentication, message integrity, cryptographic mechanisms |
+| Quantitative Finance | Algorithmic trading systems, latency and queue behaviour |
+| DNA Data Storage | Emerging storage technologies and research |
+| Software Engineering | Backend systems, APIs, databases and system design |
+| Artificial Intelligence | Machine learning applications and intelligent analysis |
 
 ---
 
-### 🛡️ Cybersecurity
+## `03 // PROJECTS UNDER DEVELOPMENT`
 
-Exploring:
+### `01. INOVIX`
+**Cybersecurity Intelligence & Detection Platform**
 
-* 🔗 Malicious URL detection
-* 🎣 Phishing detection
-* 🔐 Application security
-* 📧 Email security
-* 🧠 AI-assisted threat analysis
-* 🔎 Security automation
+A cybersecurity-focused project exploring security analysis, threat detection and intelligence correlation.
 
----
+- Modular Python security-engine architecture
+- Analyzer and detector-based design
+- Structured risk assessment and verdict classification
+- Backend API development and threat-intelligence integration
 
-# 🏆 ACHIEVEMENTS & HIGHLIGHTS
+`PYTHON` `FASTAPI` `CYBERSECURITY` `THREAT INTELLIGENCE`
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 Full-Stack Development
-
-Worked across the complete application lifecycle — from frontend interfaces to backend APIs, databases and deployment.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Exploration
-
-Built and explored multiple concepts around **LLMs, NLP, RAG and AI-powered automation**.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Product Building
-
-Worked on multiple real-world product concepts including **SaaS platforms, AI dashboards, security tools and management systems**.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💼 Business Experience
-
-Experience across **business development, sales, digital marketing and lead generation**, bringing business thinking into technology projects.
-
-</td>
-
-</tr>
-
-</table>
+**Status:** Prototype / ongoing development
 
 ---
 
-# 🔥 FEATURED CURRENT PROJECTS
+### `02. CAMRS`
+**Cybersecurity Research & Validation Initiative**
 
-## 🏢 Society Management Platform
+An independent research initiative focused on exploring, investigating and validating cybersecurity concepts through technical experimentation.
 
-A SaaS concept designed to connect residents, owners, renters and society management through one digital platform.
+- Research-oriented investigation
+- Practical experimentation and validation
+- Technical documentation and analysis
 
-### Key Ideas
+`CYBERSECURITY` `RESEARCH` `EXPERIMENTATION`
 
-`Complaint Management` · `PWA` · `Voice Input` · `Image Input` · `Notifications` · `AI Intelligence`
+**Status:** Ongoing initiative
 
-### Potential Architecture
+---
+
+### `03. SECURETRADE`
+**Receiver-Side Cryptographic Performance Research**
+
+Research investigating the performance implications of receiver-side HMAC authentication under synthetic market-data workloads.
+
+- Receiver-side authentication overhead
+- Service-time and latency analysis
+- Queue behaviour under bursty workloads
+- Python-based experimental evaluation
+
+**Research paper:** *Evaluating Receiver-Side HMAC Authentication Cost and Queue-Replay Behaviour Under Synthetic Market-Data Workloads.*
+
+`PYTHON` `HMAC` `CRYPTOGRAPHY` `QUANTITATIVE FINANCE`
+
+**Status:** Submitted to ICISEA 2026 — acceptance pending
+
+---
+
+### `04. MEMORIAL TRUST MANAGEMENT`
+**Multi-School Trust Management SaaS Platform**
+
+A software platform under development to support the management and administration of a trust operating multiple educational institutions.
+
+- Backend architecture and API development
+- Database modelling and management
+- Authentication and access-control workflows
+- School administration and management modules
+
+`FASTAPI` `PYTHON` `POSTGRESQL` `NEXT.JS` `SUPABASE`
+
+**Status:** Active development
+
+---
+
+## `04 // ADDITIONAL RESEARCH`
+
+### DNA Data Storage
+
+Currently exploring DNA-based data storage through faculty-guided research.
+
+My interest includes understanding the underlying technology, its potential applications, technical limitations and future possibilities.
+
+**Status:** Ongoing academic research
+
+---
+
+## `05 // TECHNOLOGY STACK`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,sql&theme=dark" />
+
+### Backend & Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,tailwind,vite&theme=dark" />
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,sqlite&theme=dark" />
+
+### Development & Security Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash,powershell&theme=dark" />
+
+</div>
+
+**Additional tools and environments:** Kali Linux, WSL, Postman, VirtualBox, NumPy, Pandas, Scikit-learn and Jupyter.
+
+<sub>Technologies listed reflect a combination of hands-on project experience and ongoing learning; proficiency varies by tool.</sub>
+
+---
+
+## `06 // CURRENTLY EXPLORING`
+
+- Security engineering and threat-intelligence correlation
+- Practical cryptographic implementation and performance analysis
+- Backend architecture and scalable application development
+- Linux environments and cybersecurity tooling
+- Research methodology, experimental design and technical documentation
+- Building reliable, maintainable software products
+
+---
+
+## `07 // ENGINEERING PHILOSOPHY`
 
 ```text
-Resident / Owner / Renter
-          ↓
-      Web / PWA
-          ↓
-     Next.js / React
-          ↓
-       API Layer
-          ↓
-   Supabase / Database
-          ↓
-      AI Services
-          ↓
- Complaint Intelligence
+01  UNDERSTAND THE PROBLEM
+02  QUESTION THE ASSUMPTIONS
+03  INVESTIGATE THE TECHNICAL DETAILS
+04  BUILD A WORKING SOLUTION
+05  TEST, MEASURE AND VALIDATE
+06  DOCUMENT AND IMPROVE
 ```
 
----
-
-## 🔗 AI Malicious Link Scanner
-
-A security-focused application designed to analyze URLs and identify potentially malicious or phishing links.
-
-### Focus
-
-`Cybersecurity` · `AI` · `URL Analysis` · `Phishing Detection`
+I value engineering that can be explained, tested and improved — not just demonstrated.
 
 ---
 
-## 🧠 AI Complaint Intelligence
-
-An AI-powered dashboard concept for collecting and analyzing customer complaints from multiple channels.
-
-### Pipeline
-
-```text
-Customer Complaint
-        ↓
-Data Collection
-        ↓
-AI / NLP Processing
-        ↓
-Category Detection
-        ↓
-Sentiment Analysis
-        ↓
-Severity Detection
-        ↓
-Dashboard & Analytics
-```
-
-### Focus
-
-`NLP` · `Sentiment Analysis` · `Severity Detection` · `AI Classification` · `Supabase`
-
----
-
-## 🔐 AI Privacy & Terms Simplifier
-
-A Python-based concept for converting complicated legal and privacy documents into easier-to-understand information.
-
-### Focus
-
-`Python` · `NLP` · `LLMs` · `Document Processing`
-
----
-
-# 📂 PAST PROJECTS & EXPERIMENTS
-
-## 🌐 Premium Digital Agency Website
-
-Explored the development of a modern agency website with a strong focus on:
-
-* Advanced UI
-* GSAP animations
-* Framer Motion
-* Smooth transitions
-* Responsive design
-* Interactive components
-* Modern landing-page architecture
-
-### Stack
-
-`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `GSAP` · `Framer Motion`
-
----
-
-## 🤖 AI / LLM Application Experiments
-
-Worked with concepts involving:
-
-* Qwen
-* Ollama
-* Local LLMs
-* AI-powered applications
-* NLP
-* RAG
-* Backend AI integration
-
-The focus has been on understanding how **LLMs can be integrated into real applications**, rather than using AI only as a standalone chatbot.
-
----
-
-## 🏥 Hospital Management System
-
-Explored a management application focused on organizing hospital-related workflows digitally.
-
-### Concepts
-
-`CRUD Operations` · `Database Management` · `Application Architecture`
-
----
-
-## 🔐 Security & Phishing Detection Experiments
-
-Explored cybersecurity-focused concepts around:
-
-* Link scanning
-* Phishing detection
-* Suspicious URL analysis
-* Email verification
-* Security-focused web applications
-
----
-
-## 📊 AI Complaint Intelligence Dashboard
-
-Explored an AI-based complaint aggregation system capable of:
-
-* Collecting complaints
-* Categorizing complaints
-* Detecting sentiment
-* Identifying severity
-* Generating useful insights
-* Presenting information through dashboards
-
----
-
-# ⚙️ TECH STACK
+## `08 // GITHUB ACTIVITY`
 
 <div align="center">
 
-### Frontend
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=07111c&title_color=00d68f&icon_color=00d68f&text_color=c9d1d9&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=07111c&title_color=00d68f&text_color=c9d1d9" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind"/>
+<br/>
 
-<br><br>
+<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=07111c&ring=00d68f&fire=00d68f&currStreakLabel=00d68f" />
 
-### Backend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi"/>
-
-<br><br>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase"/>
-
-<br><br>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=07111c&color=c9d1d9&line=00d68f&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
-<br>
-
-| Area               | Technologies                                                          |
-| ------------------ | --------------------------------------------------------------------- |
-| **Frontend**       | TypeScript, JavaScript, HTML, CSS, Next.js                            |
-| **Backend**        | Node.js, Python, FastAPI,                                             |
-| **Database**       | MongoDB, Supabase, Firebase                                           |
-| **AI**             | LLMs, NLP, RAG, AI Automation                                         |
-| **Development**    | Git, GitHub, Docker, Linux                                            |
-
----
-
-# 🧠 ENGINEERING INTERESTS
-
-```text
-Artificial Intelligence
-├── LLM Applications
-├── RAG Systems
-├── NLP
-├── AI Automation
-└── Intelligent Agents
-
-Full-Stack Engineering
-├── React / Next.js
-├── REST APIs
-├── Backend Architecture
-├── Database Design
-└── SaaS Applications
-
-Cybersecurity
-├── Phishing Detection
-├── Malicious URL Analysis
-├── Application Security
-└── Security Automation
-
-Product & Business
-├── SaaS
-├── Digital Products
-├── Lead Generation
-├── Digital Marketing
-└── Entrepreneurship
-```
-
----
-
-# 💼 BUSINESS × TECHNOLOGY
-
-Technology isn't the only side of my work.
-
-I've also explored:
-
-**Sales · Business Development · Digital Marketing · Lead Generation · Entrepreneurship**
-
-This gives me a different perspective when building software.
-
-```text
-        TECHNOLOGY
-             +
-         BUSINESS
-             +
-      USER EXPERIENCE
-             +
-            AI
-             ↓
-       ┌───────────┐
-       │  PRODUCT  │
-       └───────────┘
-```
-
-### 🚀 Shaikh Leadgen Solutions
-
-Exploring digital marketing, social media management and lead-generation solutions for businesses.
-
----
-
-# 🏗️ HOW I WORK
-
-```text
-01  Understand the Problem
-          ↓
-02  Research & Plan
-          ↓
-03  Design the System
-          ↓
-04  Build the MVP
-          ↓
-05  Integrate Backend & Database
-          ↓
-06  Add AI / Automation
-          ↓
-07  Test & Debug
-          ↓
-08  Ship
-          ↓
-09  Improve
-```
-
-> **I don't want to just build projects. I want to build things people can actually use.**
-
----
-
-# 🎯 CURRENTLY LEARNING
-
-* Advanced React & Next.js
-* Backend architecture
-* FastAPI & Python
-* AI / LLM application development
-* RAG architectures
-* MongoDB & Supabase
-* Cybersecurity fundamentals
-* System design
-* SaaS architecture
-* Product development
-
----
-
-# 📊 GITHUB TELEMETRY
+### Contribution trail
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehanshaikh555&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=00FF99&icon_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehanshaikh555&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshaikh555&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=c9d1d9&bg_color=0d1117" width="42%"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
 </div>
 
 ---
 
-# 📈 CONTRIBUTION ACTIVITY
+## `09 // CONNECT`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehanshaikh555&bg_color=0d1117&color=00FF99&line=00FF99&point=FFFFFF&area=true&hide_border=true&custom_title=Rehan%27s%20Contribution%20Activity" width="95%"/>
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/rehanshaikh555">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-00D68F?style=for-the-badge&logo=github&logoColor=white&labelColor=07111c" />
 </a>
 
-<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<!-- Add your verified LinkedIn and email links here when ready. -->
 
-<a href="mailto:wrehan2344@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
+
+**Open to meaningful technical collaborations, research discussions and engineering opportunities.**
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⚡ BUILD · LEARN · EXPERIMENT · SHIP
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d68f,100:07111c&height=100&section=footer" width="100%" />
 
-<i>Always working on the next idea.</i>
+<sub>BUILD WITH PURPOSE. RESEARCH WITH CURIOSITY. ENGINEER WITH DISCIPLINE.</sub>
 
-<br><br>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff99,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+`END OF FILE // MORE COMMITS AHEAD`
 
 </div>
-```
-
-### One important point
-
-I deliberately **didn't manufacture achievements** like hackathon ranks, certifications, GitHub stars, downloads, or competition wins. Those should only go into the profile if they're actually yours.
-
-For the **Achievements** section, the next upgrade should be your *real* achievements—things like certifications, hackathons, projects you've actually deployed, open-source contributions, leadership roles, internships/jobs, workshops, etc. That will make the profile considerably stronger than filling it with generic claims.
