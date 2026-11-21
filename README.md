@@ -1,7 +1,7 @@
- 
+
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/rehanshaikh555">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:07111c,50:063b32,100:00d68f&text=REHAN%20AHMAD%20SHAIKH&fontColor=ffffff&fontSize=38&fontAlignY=42&animation=fadeIn&stroke=00d68f&strokeWidth=1" width="100%" />
 </a>
 
@@ -24,6 +24,19 @@
 After an account-related interruption kept my GitHub activity quiet for a while, I'm returning with a renewed commitment to consistent engineering, independent research and meaningful contributions.
 
 `RESEARCH` &nbsp; // &nbsp; `BUILD` &nbsp; // &nbsp; `CONTRIBUTE`
+
+<br/>
+
+<a href="https://github.com/rehanshaikh555">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-00D68F?style=for-the-badge&logo=github&logoColor=white&labelColor=07111c" />
+</a>
+<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D68F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111c" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rehanshaikh555&style=flat-square&color=00d68f&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -61,6 +74,7 @@ I enjoy working at the intersection of **cybersecurity, software engineering, re
 ## `03 // PROJECTS UNDER DEVELOPMENT`
 
 ### `01. INOVIX`
+
 **Cybersecurity Intelligence & Detection Platform**
 
 A cybersecurity-focused project exploring security analysis, threat detection and intelligence correlation.
@@ -77,6 +91,7 @@ A cybersecurity-focused project exploring security analysis, threat detection an
 ---
 
 ### `02. CAMRS`
+
 **Cybersecurity Research & Validation Initiative**
 
 An independent research initiative focused on exploring, investigating and validating cybersecurity concepts through technical experimentation.
@@ -92,6 +107,7 @@ An independent research initiative focused on exploring, investigating and valid
 ---
 
 ### `03. SECURETRADE`
+
 **Receiver-Side Cryptographic Performance Research**
 
 Research investigating the performance implications of receiver-side HMAC authentication under synthetic market-data workloads.
@@ -110,6 +126,7 @@ Research investigating the performance implications of receiver-side HMAC authen
 ---
 
 ### `04. MEMORIAL TRUST MANAGEMENT`
+
 **Multi-School Trust Management SaaS Platform**
 
 A software platform under development to support the management and administration of a trust operating multiple educational institutions.
@@ -143,15 +160,21 @@ My interest includes understanding the underlying technology, its potential appl
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css&theme=dark" />
+
+<br/><br/>
 
 ### Backend & Frameworks
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,nextjs,tailwind,vite&theme=dark" />
 
+<br/><br/>
+
 ### Databases & Cloud
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,sqlite&theme=dark" />
+
+<br/><br/>
 
 ### Development & Security Environment
 
@@ -195,26 +218,34 @@ I value engineering that can be explained, tested and improved — not just demo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=07111c&title_color=00d68f&icon_color=00d68f&text_color=c9d1d9&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=07111c&title_color=00d68f&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rehanshaikh555&show_icons=true&hide_border=true&bg_color=07111c&title_color=00d68f&icon_color=00d68f&text_color=c9d1d9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanshaikh555&layout=compact&hide_border=true&bg_color=07111c&title_color=00d68f&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rehanshaikh555&theme=dark&hide_border=true&background=07111c&ring=00d68f&fire=00d68f&currStreakLabel=00d68f" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehanshaikh555&bg_color=07111c&color=c9d1d9&line=00d68f&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+### Contribution calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00d68f/rehanshaikh555" alt="GitHub contribution calendar" width="100%" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=07111c&ring=00d68f&fire=00d68f&currStreakLabel=00d68f" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=07111c&color=c9d1d9&line=00d68f&point=ffffff&area=true&hide_border=true" />
+<sub>CONSISTENCY IS BUILT ONE CONTRIBUTION AT A TIME.</sub>
 
 </div>
 
 ### Contribution trail
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-
-</div>
 
 ---
 
@@ -222,15 +253,31 @@ I value engineering that can be explained, tested and improved — not just demo
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-00D68F?style=for-the-badge&logo=github&logoColor=white&labelColor=07111c" />
-</a>
-
-<!-- Add your verified LinkedIn and email links here when ready. -->
+**Open to meaningful technical collaborations, research discussions and engineering opportunities.**
 
 <br/><br/>
 
-**Open to meaningful technical collaborations, research discussions and engineering opportunities.**
+<a href="mailto:wrehan2344@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-wrehan2344%40gmail.com-00D68F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111c" />
+</a>
+
+<br/><br/>
+
+<a href="tel:+918779559042">
+<img src="https://img.shields.io/badge/CALL-+91%208779559042-00D68F?style=for-the-badge&logo=phone&logoColor=white&labelColor=07111c" />
+</a>
+<a href="https://wa.me/918779559042">
+<img src="https://img.shields.io/badge/WHATSAPP-MESSAGE-00D68F?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=07111c" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/rehan-shaikh-4aa937379/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00D68F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111c" />
+</a>
+<a href="https://github.com/rehanshaikh555">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-00D68F?style=for-the-badge&logo=github&logoColor=white&labelColor=07111c" />
+</a>
 
 </div>
 
